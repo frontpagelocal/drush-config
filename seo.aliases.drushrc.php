@@ -11,8 +11,8 @@ $aliases['dev'] = array (
 );
 
 $aliases['remote'] = array (
-  'remote-host' => 'drush.frontpagelocal.com',
-  'remote-user' => 'frontpagelocal',
+//  'remote-host' => 'drush.frontpagelocal.com',
+//  'remote-user' => 'frontpagelocal',
   'path-aliases' => array(
       '%drush' => '/home/frontpagelocal/drush',
       '%drush-script' => '/home/frontpagelocal/drush/drush',
@@ -20,9 +20,14 @@ $aliases['remote'] = array (
      ),
 );
 
-
 $aliases['prod'] = array (
   'parent' => '@seo.remote',
   'uri' => 'http://seo.frontpagelocal.com',
   'root' => '/home/frontpagelocal/seo.frontpagelocal.com',
+);
+
+$aliases['gp'] = array (
+  'parent' => '@seo.remote',
+  'uri' => 'http://gp.frontpagelocal.com',
+  'root' => '/home/frontpagelocal/gp.frontpagelocal.com',
 );
