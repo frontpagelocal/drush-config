@@ -20,9 +20,20 @@ $aliases['remote'] = array (
      ),
 );
 
-
 $aliases['prod'] = array (
   'parent' => '@seo.remote',
   'uri' => 'http://seo.frontpagelocal.com',
   'root' => '/home/frontpagelocal/seo.frontpagelocal.com',
+);
+
+$aliases['gp'] = array (
+  'parent' => '@seo.remote',
+  'uri' => 'http://gp.frontpagelocal.com',
+  'root' => '/home/frontpagelocal/gp.frontpagelocal.com',
+);
+
+$aliases['demo'] = array (
+  'parent' => '@seo.remote',
+  'uri' => 'http://demo.frontpagelocal.com',
+  'root' => '/home/frontpagelocal/demo.frontpagelocal.com',
 );
