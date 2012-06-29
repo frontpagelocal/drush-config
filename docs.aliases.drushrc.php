@@ -1,27 +1,17 @@
 <?php
 
-$aliases['dev'] = array (
-  'root' => '/home/frontpagelocal/www/dev7',
-  'uri' => 'http://docs.dev7',
-  'path-aliases' => 
-  array (
+$aliases['docs'] = array (
+  'root' => '/home/frontpagelocal/www/documentation',
+  'uri' => 'http://lan.frontpagelocal.com/documentation',
+  'path-aliases' => array (
     '%drush' => '/usr/share/php/drush',
-    '%site' => 'sites/docs.dev7/',
   ),
-  'databases' => 
-  array (
-    'default' => 
-    array (
-      'default' => 
-      array (
-        'database' => 'fpl_documentation',
-        'username' => 'root',
-        'password' => 'fpladmin8756',
-        'host' => 'localhost',
-        'port' => '',
-        'driver' => 'mysql',
-        'prefix' => '',
-      ),
-    ),
+);
+
+$aliases['prod'] = array (
+  'root' => '/home/frontpagelocal/docs.frontpagelocal.com',
+  'uri' => 'http://docs.frontpagelocal.com',
+  'path-aliases' => array (
+    '%drush' => '/home/frontpagelocal/drush',
   ),
 );

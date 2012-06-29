@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Profiler Builder</title>
+<short_name>profiler_builder</short_name>
+<dc:creator>btopro</dc:creator>
+<api_version>7.x</api_version>
+<recommended_major>1</recommended_major>
+<supported_majors>1</supported_majors>
+<default_major>1</default_major>
+<project_status>published</project_status>
+<link>http://drupal.org/project/profiler_builder</link>
+  <terms>
+   <term><name>Projects</name><value>Modules</value></term>
+   <term><name>Projects</name><value>Administration</value></term>
+   <term><name>Projects</name><value>Utility</value></term>
+   <term><name>Development status</name><value>Under active development</value></term>
+   <term><name>Maintenance status</name><value>Actively maintained</value></term>
+  </terms>
+<releases>
+ <release>
+  <name>profiler_builder 7.x-1.0-alpha2</name>
+  <version>7.x-1.0-alpha2</version>
+  <tag>7.x-1.0-alpha2</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>alpha2</version_extra>
+  <status>published</status>
+  <release_link>http://drupal.org/node/1316060</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/profiler_builder-7.x-1.0-alpha2.tar.gz</download_link>
+  <date>1319131534</date>
+  <mdhash>fe4513fbb9a983eb52b1fe05baca9c75</mdhash>
+  <filesize>8896</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/profiler_builder-7.x-1.0-alpha2.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>fe4513fbb9a983eb52b1fe05baca9c75</md5>
+    <size>8896</size>
+    <filedate>1319131534</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/profiler_builder-7.x-1.0-alpha2.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>9ad43273fc7bdf1e00ed6f6620678d4e</md5>
+    <size>9709</size>
+    <filedate>1319131534</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>profiler_builder 7.x-1.0-alpha1</name>
+  <version>7.x-1.0-alpha1</version>
+  <tag>7.x-1.0-alpha1</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>alpha1</version_extra>
+  <status>published</status>
+  <release_link>http://drupal.org/node/1312324</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/profiler_builder-7.x-1.0-alpha1.tar.gz</download_link>
+  <date>1318868800</date>
+  <mdhash>99239488ac44a66e73df31d962a709e2</mdhash>
+  <filesize>8883</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/profiler_builder-7.x-1.0-alpha1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>99239488ac44a66e73df31d962a709e2</md5>
+    <size>8883</size>
+    <filedate>1318868800</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/profiler_builder-7.x-1.0-alpha1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>d2f5f4cd95667458258ffb265ce0b21d</md5>
+    <size>9696</size>
+    <filedate>1318868800</filedate>
+   </file>
+  </files>
+ </release>
+ <release>
+  <name>profiler_builder 7.x-1.x-dev</name>
+  <version>7.x-1.x-dev</version>
+  <tag>7.x-1.x</tag>
+  <version_major>1</version_major>
+  <version_extra>dev</version_extra>
+  <status>published</status>
+  <release_link>http://drupal.org/node/1653556</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/profiler_builder-7.x-1.x-dev.tar.gz</download_link>
+  <date>1340454787</date>
+  <mdhash>6dfda6de59b77aaee3c4057d49d2e212</mdhash>
+  <filesize>8912</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/profiler_builder-7.x-1.x-dev.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>6dfda6de59b77aaee3c4057d49d2e212</md5>
+    <size>8912</size>
+    <filedate>1340454787</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/profiler_builder-7.x-1.x-dev.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>074eaa0c5b4abfcff21d6da736372303</md5>
+    <size>9714</size>
+    <filedate>1340454787</filedate>
+   </file>
+  </files>
+ </release>
+</releases>
+</project>
