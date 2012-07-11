@@ -3,12 +3,13 @@
 
 $aliases['dev'] = array (
   'root' => '/home/frontpagelocal/www/successexceleration',
+  'uri' => 'http://ubusrv/successexceleration',
   'path-aliases' => 
   array (
     '%drush' => '/usr/share/php/drush',
     '%site' => 'sites/default/',
   ),
-  'databases' => 
+  /*'databases' => 
   array (
     'default' => 
     array (
@@ -23,7 +24,7 @@ $aliases['dev'] = array (
         'prefix' => '',
       ),
     ),
-  ),
+  ),*/
 );
 
 
