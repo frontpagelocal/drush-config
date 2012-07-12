@@ -8,6 +8,10 @@ $aliases['dev'] = array (
     '%drush' => '/usr/share/php/drush',
     '%site' => 'sites/default/',
   ),
+  array (
+  'remote-host' => 'lan.frontpagelocal.com',
+  'remote-user' => 'frontpagelocal',
+  ),
 );
 
 $aliases['remote'] = array (
