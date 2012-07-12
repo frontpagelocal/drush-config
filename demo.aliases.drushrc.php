@@ -9,7 +9,7 @@ $aliases['dev'] = array (
     '%drush' => '/usr/share/php/drush',
     '%site' => 'sites/demo.dev7/',
   ),
-  'databases' => 
+  /*'databases' => 
   array (
     'default' => 
     array (
@@ -24,6 +24,6 @@ $aliases['dev'] = array (
         'prefix' => '',
       ),
     ),
-  ),
+  ),*/
 );
 

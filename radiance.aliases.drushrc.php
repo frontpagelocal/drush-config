@@ -9,7 +9,7 @@ $aliases['dev'] = array (
     '%drush' => '/usr/share/php/drush',
     '%site' => 'sites/default/',
   ),
-  'databases' => 
+  /*'databases' => 
   array (
     'default' => 
     array (
@@ -24,12 +24,12 @@ $aliases['dev'] = array (
         'prefix' => '',
       ),
     ),
-  ),
+  ),*/
 );
 
 
 $aliases['remote'] = array (
-  'remote-host' => 'www.revealyourradiance.com',
+  'remote-host' => 'drush.frontpagelocal.com',
   'remote-user' => 'frontpagelocal',
   'path-aliases' => array(
       '%drush' => '/home/frontpagelocal/drush',

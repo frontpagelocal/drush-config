@@ -11,7 +11,7 @@ $aliases['dev'] = array (
 );
 
 $aliases['remote'] = array (
-  'remote-host' => 'www.sbcommunicationengineering.com',
+  'remote-host' => 'drush.frontpagelocal.com',
   'remote-user' => 'frontpagelocal',
   'path-aliases' => array(
       '%drush' => '/home/frontpagelocal/drush',
