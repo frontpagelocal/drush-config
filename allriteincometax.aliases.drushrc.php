@@ -29,6 +29,6 @@ $aliases['stage'] = array (
 
 $aliases['prod'] = array (
   'parent' => '@allriteincometax.remote',
-  'uri' => 'http://www.DOMAIN.com',
-  'root' => '/home/frontpagelocal/www.DOMAIN.com',
+  'uri' => 'http://www.allritetax.com',
+  'root' => '/home/frontpagelocal/www.allritetax.com',
 );
