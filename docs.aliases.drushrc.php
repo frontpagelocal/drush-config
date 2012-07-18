@@ -1,8 +1,8 @@
 <?php
 
-$aliases['docs'] = array (
+$aliases['dev'] = array (
   'root' => '/home/frontpagelocal/www/documentation',
-  'uri' => 'http://lan.frontpagelocal.com/documentation',
+  'uri' => 'http://ubusrv/documentation',
   'path-aliases' => array (
     '%drush' => '/usr/share/php/drush',
   ),
