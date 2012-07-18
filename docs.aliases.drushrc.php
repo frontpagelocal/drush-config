@@ -1,6 +1,6 @@
 <?php
 
-$aliases['docs'] = array (
+$aliases['dev'] = array (
   'root' => '/home/frontpagelocal/www/documentation',
   'uri' => 'http://lan.frontpagelocal.com/documentation',
   'path-aliases' => array (
