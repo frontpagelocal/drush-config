@@ -9,8 +9,7 @@ $aliases['dev'] = array (
     '%site' => 'sites/default/',
   ),
 );
-*/
-/*
+
 $aliases['remote'] = array (
   //'remote-host' => 'drush.frontpagelocal.com',
   //'remote-user' => 'frontpagelocal',
