@@ -24,7 +24,7 @@ $aliases['remote'] = array (
 $aliases['demo'] = array (
   //'parent' => '@theranklab.remote',
   'uri' => 'http://demo.theranklab.com',
-  'root' => '/home/frontpagelocal/stage.theranklab.com',
+  'root' => '/home/frontpagelocal/demo.theranklab.com',
 );
 
 $aliases['prod'] = array (
