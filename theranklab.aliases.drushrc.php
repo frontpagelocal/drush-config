@@ -9,7 +9,8 @@ $aliases['dev'] = array (
     '%site' => 'sites/default/',
   ),
 );
-
+*/
+/*
 $aliases['remote'] = array (
   //'remote-host' => 'drush.frontpagelocal.com',
   //'remote-user' => 'frontpagelocal',
@@ -23,7 +24,7 @@ $aliases['remote'] = array (
 
 $aliases['demo'] = array (
   //'parent' => '@theranklab.remote',
-  'uri' => 'http://stage.theranklab.com',
+  'uri' => 'http://demo.theranklab.com',
   'root' => '/home/frontpagelocal/stage.theranklab.com',
 );
 
