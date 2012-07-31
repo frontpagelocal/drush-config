@@ -27,6 +27,12 @@ $aliases['demo'] = array (
   'root' => '/home/frontpagelocal/demo.theranklab.com',
 );
 
+$aliases['stage'] = array (
+  //'parent' => '@theranklab.remote',
+  'uri' => 'http://ranklab.frontpagelocal.com',
+  'root' => '/home/frontpagelocal/ranklab.frontpagelocal.com',
+);
+
 $aliases['prod'] = array (
   //'parent' => '@theranklab.remote',
   'uri' => 'http://www.theranklab.com',

@@ -187,7 +187,7 @@
  * location as 'pm-updatecode'.
  */
 # $options['result-file'] = TRUE;
- $options['result-file'] = '../@DATABASE_@DATE.sql';
+ $options['result-file'] = '@DATABASE_@DATE.sql';
 
 
 // Enable verbose mode.
