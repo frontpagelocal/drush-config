@@ -31,11 +31,11 @@ $aliases['dev'] = array (
 $aliases['remote'] = array (
   //'remote-host' => 'drush.frontpagelocal.com',
   //'remote-user' => 'frontpagelocal',
-  'path-aliases' => array(
+  /*'path-aliases' => array(
       '%drush' => '/home/frontpagelocal/drush',
       '%drush-script' => '/home/frontpagelocal/drush/drush',
       '%dump-dir' => '/home/frontpagelocal/dumps/',
-     ),/*
+     ),
    'databases' => array (
     'default' => array (
       'default' => array (
