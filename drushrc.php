@@ -308,9 +308,9 @@
  */
 
 // Ensure all rsync commands use verbose output.
-$command_specific['rsync'] = array('verbose' => TRUE);
-$command_specific['rsync'] = array('mode' => 'rlptz');
-$command_specific['sql-sync'] = array('mode' => 'rlptz');
+#$command_specific['rsync'] = array('verbose' => TRUE);
+#$command_specific['rsync'] = array('mode' => 'rlptz');
+#$command_specific['sql-sync'] = array('mode' => 'rlptz');
 
 // CVS credentials for module dowlnoads.
 # $command_specific['dl'] = array('cvscredentials' => 'user:pass');
